@@ -1,0 +1,67 @@
+.chatAndMessage {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 450px;
+    overflow-y: auto;
+    border: 1px solid #dbdbdd;
+    background: #ffffff;
+}
+
+.inputMessage {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+.buttonsBox {
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+.messageInChat {
+    overflow: hidden;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.messageBot {
+    max-width: 286px;
+    background: #00a6e8;
+    color: white;
+    left: 10px;
+    width: 80%;
+    float: left;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.messageClient {
+    max-width: 286px;
+    background: #dedede;
+    color: black;
+    right: 10px;
+    width: 80%;
+    float: right;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #00a6e8;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
